@@ -14,11 +14,11 @@ Make sure the following are installed on your machine:
 
 ### Run Backend (.NET 8 API)
 
-cd backend
-dotnet restore
-dotnet run
+- cd backend
+- dotnet restore
+- dotnet run
 
 ### Run Backend (.NET 8 API)
-cd frontend
-npm install
-ng serve
+- cd frontend
+- npm install
+- ng serve

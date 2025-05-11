@@ -4,6 +4,8 @@ This repository contains a full-stack Inventory Management System built with Ang
 
 ## How to Run the Application
 
+After unzipping the project, follow the below instructions
+
 ### Prerequisites
 
 Make sure the following are installed on your machine:
@@ -14,11 +16,11 @@ Make sure the following are installed on your machine:
 
 ### Run Backend (.NET 8 API)
 
-- cd backend
+- cd Inventory-Management-System\Inventory System
 - dotnet restore
 - dotnet run
 
 ### Run Backend (.NET 8 API)
-- cd frontend
+- cd Inventory-Management-System\Inventory System\Inventory-System-Frontend
 - npm install
 - ng serve
